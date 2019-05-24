@@ -1,6 +1,6 @@
 owner=392783948583010307
-prefix=kp
-game=kp
+prefix=k
+game=k
 stayinchannel=true
 songinstatus=false
 token=NTgxMzE5MDYxMDg3MTkxMDQx.XOdh6g.YGRp--o85riH3o1-s8KiogFrvJg
