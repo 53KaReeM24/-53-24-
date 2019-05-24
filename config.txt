@@ -1,5 +1,5 @@
 owner=392783948583010307
-prefix=53kplay
+prefix=kp
 game=kp
 stayinchannel=true
 songinstatus=false
