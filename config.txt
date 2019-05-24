@@ -1,6 +1,6 @@
 owner=392783948583010307
 prefix=53kplay
-game=53kplay
+game=kp
 stayinchannel=true
 songinstatus=false
 token=NTgxMzE5MDYxMDg3MTkxMDQx.XOdh6g.YGRp--o85riH3o1-s8KiogFrvJg
